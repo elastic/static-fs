@@ -11,7 +11,7 @@
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
 
 
-A static filesystem to bundle multiple files into one that are lately
+A static filesystem to bundle multiple files into one that are
 able to be read by Node.js through `require` or the [fs module](https://nodejs.org/api/fs.html).
 
 ## Why
