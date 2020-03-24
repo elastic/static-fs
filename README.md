@@ -150,7 +150,7 @@ Let us know if you found other unknown limitations [opening an issue](https://gi
 
 ## Contributing
 
-If you wanna contribute please read [CONTRIBUTING.md](https://github.com/elastic/static-fs/blob/master/CONTRIBUTING.md).
+If you would like to contribute, please read [CONTRIBUTING.md](https://github.com/elastic/static-fs/blob/master/CONTRIBUTING.md).
 
 ## License
 
