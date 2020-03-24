@@ -16,11 +16,7 @@ able to be read by Node.js through `require` or the [fs module](https://nodejs.o
 
 ## Why
 
-There are a lot of use cases when we have the need to ship the `node_modules` 
-along with the distribution files of our code in order to achieve a `zero install` 
-workflow for our end users. As the application evolves so the `node_modules` number 
-of files which would cause a lot of problems specially on `windows` environments 
-(bad performance unzipping, bad performance through an installer,  max file path length, etc).
+There are a lot of use cases which require shipping `node_modules` along with the distribution in order to achieve a `zero install` workflow for our end users. Given the nature of node_modules, this directory ends up containing a magnitude of files resulting in a degraded experience, especially on Windows environments (bad performance unzipping, bad performance through an installer,  max file path length, etc).
 
 That was the first motivation and the main use case for the static filesystem: 
 allow to bundle all the files from the `node_modules` during the build process into a single file 
