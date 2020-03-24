@@ -43,9 +43,9 @@ from the static filesystem
 
 ## Getting Started
 
-Remember, that is a development tool intended to be used during your 
+Remember, that this is a development tool intended to be used during your 
 build process, so install it as `development dependency` and run it as 
-a one final step once your build produce the raw distributable artifacts.
+a final step once your build produce the raw build artifacts.
 
 ### Install
 
