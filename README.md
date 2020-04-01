@@ -156,15 +156,9 @@ If you would like to contribute, please read [CONTRIBUTING.md](https://github.co
 
 See [LICENSE](https://github.com/elastic/static-fs/blob/master/LICENSE).
 
-## Thanks To
+## Thanks
 
-- @zeit for [Pkg](https://github.com/zeit/pkg) as it was the first project we 
-  start investigate in order to solve that problem and was also source of some ideas.
-- @fearthecowboy for [static-link](https://github.com/fearthecowboy/static-link) as 
-  it was the main inspiration for that project (it's codebase was used as the starting point for the current project).
-- @electron for [asar](https://github.com/electron/asar). While we found it in a later stage 
-  of that project it was curious to understand how both projects share some of the same ideas,
-  however still capable of achieving different results and different implementations.
+Our thanks can be read at [THANKS.md](https://github.com/elastic/static-fs/blob/master/THANKS.md).
   
 [ci-build-status-image]: https://github.com/elastic/static-fs/workflows/CI.CD/badge.svg?branch=master 
 [ci-build-status-url]: https://github.com/elastic/static-fs/actions?query=workflow%3ACI.CD+branch%3Amaster
