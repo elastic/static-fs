@@ -10,7 +10,6 @@
 [![David Node Deps Manager Development][david-node-deps-manager-dev-image]][david-node-deps-manager-dev-url]
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
 
-
 A static filesystem to bundle multiple files into one that are
 able to be read by Node.js through `require` or the [fs module](https://nodejs.org/api/fs.html).
 
@@ -150,15 +149,19 @@ Let us know if you found other unknown limitations [opening an issue](https://gi
 
 ## Contributing
 
-If you would like to contribute, please read [CONTRIBUTING.md](https://github.com/elastic/static-fs/blob/master/CONTRIBUTING.md).
+If you would like to contribute, please read [CONTRIBUTING](https://github.com/elastic/static-fs/blob/master/CONTRIBUTING.md).
 
 ## License
 
 See [LICENSE](https://github.com/elastic/static-fs/blob/master/LICENSE).
 
+## FAQ 
+
+Read the [FAQ](https://github.com/elastic/static-fs/blob/master/FAQ.md) for details.
+
 ## Thanks
 
-Our thanks can be read at [THANKS.md](https://github.com/elastic/static-fs/blob/master/THANKS.md).
+Our thanks can be read at [THANKS](https://github.com/elastic/static-fs/blob/master/THANKS.md).
   
 [ci-build-status-image]: https://github.com/elastic/static-fs/workflows/CI.CD/badge.svg?branch=master 
 [ci-build-status-url]: https://github.com/elastic/static-fs/actions?query=workflow%3ACI.CD+branch%3Amaster
