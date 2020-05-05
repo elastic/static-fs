@@ -1,0 +1,28 @@
+{
+  "name": "mock-project",
+  "version": "1.0.0",
+  "description": "A mock project to test the Static-Fs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elastic/static-fs.git"
+  },
+  "author": "Tiago Costa",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/elastic/static-fs/issues"
+  },
+  "homepage": "https://github.com/elastic/static-fs",
+  "dependencies": {
+    "mock_child_process_module": "../../fixtures/node_modules/mock_child_process_module",
+    "mock_native_module": "../../fixtures/node_modules/mock_native_module",
+    "mock_simple_module": "../../fixtures/node_modules/mock_simple_module",
+    "mock_simple_module_non_bundled": "../../fixtures/node_modules/mock_simple_module_non_bundled",
+    "mock_simple_module_relative": "../../fixtures/node_modules/mock_simple_module_relative",
+    "static-fs": "../../../"
+  },
+  "engines": {
+    "node": "10.19.0",
+    "yarn": ">=1.21.1"
+  }
+}
