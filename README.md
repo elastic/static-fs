@@ -173,8 +173,8 @@ Our thanks can be read at [THANKS](https://github.com/elastic/static-fs/blob/mas
 [ci-build-status-url]: https://github.com/elastic/static-fs/actions?query=workflow%3ACI.CD+branch%3Amaster
 [commitizen-friendly-image]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
 [commitizen-friendly-url]: http://commitizen.github.io/cz-cli
-[npm-version-image]: https://img.shields.io/npm/v/static-fs
-[npm-version-url]: https://www.npmjs.com/package/static-fs
+[npm-version-image]: https://img.shields.io/npm/v/@elastic/static-fs
+[npm-version-url]: https://www.npmjs.com/package/@elastic/static-fs
 [node-version-image]: https://img.shields.io/node/v/static-fs
 [node-version-url]: https://nodejs.org/download/release/v10.19.0
 [david-node-deps-manager-image]: https://img.shields.io/david/elastic/static-fs
