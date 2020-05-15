@@ -1,5 +1,12 @@
 # Static-Fs Changelog
 
+## [1.0.2](https://github.com/elastic/static-fs/compare/v1.0.1...v1.0.2) (2020-05-15)
+
+
+### Bug Fixes
+
+* patchedFS across the entire module loader ([#20](https://github.com/elastic/static-fs/issues/20)) ([94c8342](https://github.com/elastic/static-fs/commit/94c8342ef5785468e16ddf9bb4867ea3dfd2bd90))
+
 ## [1.0.1](https://github.com/elastic/static-fs/compare/v1.0.0...v1.0.1) (2020-05-05)
 
 
