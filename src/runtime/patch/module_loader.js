@@ -132,6 +132,10 @@ export function patchModuleLoader() {
 
     let result = Module._customFindPath(request, paths, isMain);
 
+    if (result) {
+      return result;
+    }
+
     // NOTE: special use case when we have a findPath call with a relative file request where
     // the given path is in the real fs and the relative file
     // is inside the static fs
