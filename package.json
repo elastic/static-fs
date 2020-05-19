@@ -1,6 +1,6 @@
 {
   "name": "@elastic/static-fs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A static filesystem to bundle and read files using Node.js",
   "main": "dist/index.js",
   "scripts": {

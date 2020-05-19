@@ -1,5 +1,12 @@
 # Static-Fs Changelog
 
+## [1.0.3](https://github.com/elastic/static-fs/compare/v1.0.2...v1.0.3) (2020-05-19)
+
+
+### Bug Fixes
+
+* use resolve on node path to string fn ([#22](https://github.com/elastic/static-fs/issues/22)) ([153c3cc](https://github.com/elastic/static-fs/commit/153c3ccd0ffe15eed426bec686a0f35d9f7378dd))
+
 ## [1.0.2](https://github.com/elastic/static-fs/compare/v1.0.1...v1.0.2) (2020-05-15)
 
 
